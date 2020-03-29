@@ -22,5 +22,5 @@ baseURL: 'http://IP_da_maquina:3333'
 Abrindo no Expo:
 Na pasta mobile, abra o cmd e execute npm start windows, yard start start
 
-Lista de dependências : (Front-end, back=end, mobile)
+# Lista de dependências : (Front-end, back=end, mobile)
 
