@@ -23,4 +23,5 @@ Abrindo no Expo:
 Na pasta mobile, abra o cmd e execute npm start windows, yard start start
 
 # Lista de dependências : (Front-end, back=end, mobile)
+Veja no packege.json de cada aplicação.
 
