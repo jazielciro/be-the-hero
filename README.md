@@ -1,6 +1,6 @@
-# be-the-hero
+# Be-The-Tero
 
-Semana Omnistack 11 da Rocketseat ministrada pelo Diego Fernandes
+#Semana Omnistack 11 da Rocketseat ministrada pelo Diego Fernandes
 Instruções para utilizar o projeto:
 Para utilizar o projeto execute npm install (Para o frontend e o backend).
 1 rodar npm install
